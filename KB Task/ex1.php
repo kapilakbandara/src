@@ -48,7 +48,7 @@
             <td><?php echo $g3 ?></td>
         </tr> 
     </table>
-    <h3>3.5 Take a screenshot that confirms your development environment 
+    <h3>3.4 Take a screenshot that confirms your development environment 
         setup and include it as an image in the "ex1.php" file.</h3>
     <img src="images/2024.png" alt="web development environment">
     </body>
